@@ -6,5 +6,5 @@ Domaci iz predmeta Primena projektivne geometrije u računarstvu za školsku 202
 ```pip3 install numpy```
 * cv2  
 ```pip3 install opencv-python```
-* matplotlib
+* matplotlib   
 ```pip3 install matplotlib```
